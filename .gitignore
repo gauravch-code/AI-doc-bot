@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# API Keys and sensitive info
+.env
+
+# Vector Database (if using local ChromaDB)
+my_vector_db/
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# OS files (optional)
+.DS_Store
+Thumbs.db
